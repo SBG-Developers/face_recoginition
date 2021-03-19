@@ -8,7 +8,7 @@ chardet==3.0.4
 Click==7.0
 coverage==4.1
 Django==2.2.3
-djangorestframework==3.10.2
+djangorestframework==3.11.2
 dlib==19.17.99
 docutils==0.15.2
 face-recognition==1.2.3
