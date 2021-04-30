@@ -43,7 +43,7 @@ snowballstemmer==1.9.0
 Sphinx==1.4.8
 sqlparse==0.3.0
 tox==2.3.1
-urllib3==1.25.3
+urllib3==1.25.8
 virtualenv==16.7.2
 watchdog==0.8.3
 Werkzeug==0.15.5
